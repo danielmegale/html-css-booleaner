@@ -1,0 +1,17 @@
+body{
+    max-width: 1500px;
+    margin: 0px auto;
+}
+.banner{
+    height:120px;
+    background-image: url(img/pattern.png);
+    background-color:#4EA0FF;
+    background-size:338px ;
+}
+.logo{
+    height: 100%;
+    background-image:url(img/logo.svg) ;
+    background-repeat: no-repeat;
+    background-size:220px;
+    background-position: center left;
+}
